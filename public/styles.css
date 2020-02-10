@@ -1,0 +1,10 @@
+body {
+ background-image: url(https://png.pngtree.com/thumb_back/fw800/back_pic/03/53/97/38579957bbd87ba.jpg);
+ background-color: #cccccc;
+}
+.filters{
+    background: transparent!important;
+}
+.filters li label {
+    color: #927524;
+}
